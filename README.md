@@ -1,7 +1,6 @@
 # Informator Maturalny 2025
 
-No to tego Informator maturalny 2025 w rozszerzonej (no bo w jakiej innej) zrobionej w Pythonie oraz kapitalistycznym śnie Billiego Bramki, czyli Wekselu i Aksesie, a i AI też swoje dorzuciło, bo czemu nie.
-
+No to tego Informator maturalny 2025 w rozszerzonej
 
 
 ## Linkacze
@@ -14,7 +13,7 @@ Inne repa z infromatorami:
 * [Repozytorium 1 - michal-slezak-dev](https://github.com/michal-slezak-dev/informator-maturalny-informatyka-2023)
 * [Repozytorium 2 - droperxyz](https://github.com/droperxyz/informator-maturalny-informatyka-matura-2023-rozwiazania)
 
-Darmowe programy wink wink:
+Darmowe programy ;):
 * [Pycharm Plebs Edition](https://www.jetbrains.com/pycharm/download/?section=windows)
 * [Weksel i Akses (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts)
 

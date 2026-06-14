@@ -1,6 +1,6 @@
 # Informator Maturalny 2025
 
-No to tego Informator maturalny 2025 w rozszerzonej
+Informator maturalny 2025
 
 
 ## Linkacze
@@ -17,6 +17,6 @@ Darmowe programy ;):
 * [Pycharm Plebs Edition](https://www.jetbrains.com/pycharm/download/?section=windows)
 * [Weksel i Akses (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
-uwaga, czasami w excelu jebie sie import i trzeba to zrobic na okolo, ja to robie tak:
+uwaga, czasami w excelu psuje sie import i trzeba to zrobic na okolo, ja to robie tak:
 Import z pliku tekstowego w Accessie > Zapisz jako [coklowiek].accdb > Import z bazy danych w Excelu z Accessa
 i wtedy powinny dzialac tabele przestawne z datami jak należy
